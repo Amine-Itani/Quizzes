@@ -12,9 +12,9 @@ from matplotlib import pyplot as plt
 
 y = []
 x = []
-for num in range(-10, 11):
+for num in range(-10, 11): # 11 instead of 10 for indexing
     x.append(num)
-    y.append(abs(num))
+    y.append(abs(num)) # Absolute function
 
 plt.plot(x, y, 'r', linewidth=2)
 plt.title("Graph of the equation Quiz 023")
