@@ -9,7 +9,7 @@ Same idea in this quiz. I love logic gates! The results of the eqaution in part 
 ```py
 def get_truth():
     truth, a, b, c, result = '| A | B | C | AB + not B + not CB |\n', 1, 1, 1, 0 # define variables
-    for x in range(8):
+    for x in range(8): # this for loop defines base changes in A, B, and C from the last quiz
         if x % 4 == 0:
             a = int(not(a))
         if x % 2 == 0:
@@ -27,11 +27,15 @@ def get_truth():
 <sub>Fig. 2 shows results of program
 
 ## Circuit
+### ZW XOR (Z XOR Y(not W))
+
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/5efc3e67-a5a9-4474-af58-65b202f46f6c)
 
 <sub>Fig. 3 shows the circuit b shown above
 
 ## Truth Table
+### ZW XOR (Z XOR Y(not W))
+
 |   W Y Z  | WZ | not(W) | Y(not(W)) (A) | A XOR Z (B) | WZ XOR B |
 |----------|----|--------|---------------|-------------|----------|
 |  0  0  0 |  0 |    1   |       0       |      0      |     0    |
