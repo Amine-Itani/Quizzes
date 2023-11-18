@@ -1,6 +1,7 @@
 # Quiz 018
 For this quiz, we used python to print out truth tables we're learning about in our second unit. This could be useful in the future! <br>
 We also have to write down the circuit and truth table for the **equation (b): Light = S<sub>1</sub>S<sub>2</sub> + (S<sub>2</sub> + S<sub>3</sub>(notS<sub>1</sub>))S<sub>1</sub>**
+
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/6609673b-5fc3-47ae-8556-500e09c6478b)
 
@@ -14,7 +15,7 @@ def get_truth():
         if x % 4 == 0: # switch on every 4
             a = int(not(a))
         if x % 2 == 0: # switch on every 2
-            b = int(not(b))
+            b = int(not(b)) 
         c = int(not(c)) # switch everytime
         truth += f'| {a} | {b} | {c} |\n' # append to returned var
 
