@@ -10,17 +10,17 @@ Second quiz about data science using matplotlib. I've found it quite interesting
 ```py
 from matplotlib import pyplot as plt
 
-# crate the lists x and y
+# create the lists x and y
 y = []
 x = []
 for num in range(-10, 10):
     x.append(num)
-    y.append(2*((num + 5)**2))
+    y.append(2*((num + 5)**2)) # mathematical function
 
 plt.plot(x, y, 'r', linewidth=2)
-plt.title("Graph of the equation $f(x)=2(x+5)^2$")
-plt.xlabel("x", fontsize=18)
-plt.ylabel("y", fontsize=18)
+plt.title("Graph of the equation $f(x)=2(x+5)^2$") # title
+plt.xlabel("x", fontsize=18) # x axis label
+plt.ylabel("y", fontsize=18) # y axis label
 plt.show()
 ```
 
