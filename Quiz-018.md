@@ -38,11 +38,15 @@ print(table)
 <sub>Fig. 3 shows flowchart of program
 
 ## Circuit
+### Light = S<sub>1</sub>S<sub>2</sub> + (S<sub>2</sub> + S<sub>3</sub>(notS<sub>1</sub>))S<sub>1</sub>
+
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/b0d52543-bdda-450c-85ba-d1d6fbf5d8c6)
 
 <sub>Fig. 4 shows circuit of equation (b)
 
 ## Truth Table
+### Light = S<sub>1</sub>S<sub>2</sub> + (S<sub>2</sub> + S<sub>3</sub>(notS<sub>1</sub>))S<sub>1</sub>
+
 | S1 S2 S3 | S1S2 (A) | not(S1) | not(S1)S3 (B) | B + S2 (C) | S1C (D) | A + D |
 |----------|----------|---------|---------------|------------|---------|-------|
 |  0  0  0 |     0    |    1    |       0       |      0     |    0    |   0   |
