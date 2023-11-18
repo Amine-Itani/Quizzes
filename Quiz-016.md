@@ -11,7 +11,7 @@ Easy one this time around. It's nice to have a break every once in a while. This
 def averageLength(words):
     sum = 0 
     avg = 0
-    for x in words: # iterate through every letter
+    for x in words: # iterate through every letter for HL case
         sum += len(x.strip()) # strip to not count spaces
     avg = sum/len(words) # length here is items in list (2 in this case)
     return avg
