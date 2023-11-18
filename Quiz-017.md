@@ -1,5 +1,6 @@
 # Quiz 017
 In this quiz, we learned how to use dictionaries to pair keys and values and call on them in a for loop. This replaces much more teadious if statements that would take a lot more time to write.
+
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/ac81c00c-7187-49f3-866f-20adb516f54f)
 
@@ -8,13 +9,13 @@ In this quiz, we learned how to use dictionaries to pair keys and values and cal
 
 ```py
 def get_l3tt3r(msg:str):
-    rules = {'a': 4, 'e': 3, 'i': 1, 'o': 0, ' ': '_'}
-    new_msg = ""
+    rules = {'a': 4, 'e': 3, 'i': 1, 'o': 0, ' ': '_'} # define rules in dictionary
+    new_msg = "" 
     for x in msg:
         if x in rules:
-            new_msg += str(rules[x])
+            new_msg += str(rules[x]) # replaces letters based on rules
         else:
-            new_msg += x
+            new_msg += x # puts the letter back if rules do not call for change
     return new_msg
 
 case1 = get_l3tt3r("Hello World")
