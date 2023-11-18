@@ -35,7 +35,7 @@ print(case1)
 ## Circuit
 ### AB + not(B + C) + B(notC notA)
 
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/6d7ee07b-a9ad-4797-8a12-488620e4480e)
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/18bc5a29-a906-483a-a781-24156bede1f4)
 
 
 <sub>Fig. 4 shows circuit of equation
