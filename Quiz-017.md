@@ -31,3 +31,11 @@ print(case1)
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/064a8cae-d2e8-4db2-908f-f8c6438e73be)
 
 <sub>Fig. 3 shows flowchart of program
+
+## Circuit
+### AB + not(B + C) + B(notC notA)
+
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/6d7ee07b-a9ad-4797-8a12-488620e4480e)
+
+
+<sub>Fig. 4 shows circuit of equation
