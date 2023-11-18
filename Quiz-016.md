@@ -9,11 +9,11 @@ Easy one this time around. It's nice to have a break every once in a while. This
 
 ```py
 def averageLength(words):
-    sum = 0
+    sum = 0 
     avg = 0
-    for x in words:
-        sum += len(x.strip())
-    avg = sum/len(words)
+    for x in words: # iterate through every letter
+        sum += len(x.strip()) # strip to not count spaces
+    avg = sum/len(words) # length here is items in list (2 in this case)
     return avg
 
 trial = averageLength(["Computer Science", "Art"])
