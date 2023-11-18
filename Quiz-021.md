@@ -1,5 +1,5 @@
 # Quiz 021
-This was our first quiz using data science and matlabplot. We used the equation and the randomly generated integers to plot the graph.
+This was our first quiz using data science and matlabplot. We used the equation and the randomly generated integers to plot the graph Because the values weren't as expected in the quiz output, the graph looks a little funky.
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/2c4bea48-8baa-44d1-bf87-d2095eef63f8)
 
@@ -7,11 +7,11 @@ This was our first quiz using data science and matlabplot. We used the equation 
 ## Code
 
 ```py
-from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt # Importing library
 import random
 
 def produce(n, m, s):
-    random.seed(1234)
+    random.seed(1234) # seeding to get same numbers as last quiz
     y = []
     x = []
     for i in range(n):
@@ -23,8 +23,8 @@ def produce(n, m, s):
 
 
 y, x = produce(n=5, m=3, s=2)
-print(y, x)
-plt.plot(x, y)
+print(y, x) # checking values in terminal
+plt.plot(x, y) # plotting values 
 plt.show()
 ```
 
