@@ -1,5 +1,6 @@
 # Quiz 025
-Describe the quiz
+Errorbar graphs are more scientific than other graphs, allowing users to see figures while accounting for potential errors. To do this, the creator of the graph needs the mean and standard deviation on the data, which the numpy library can do very easily with it's mean and std functions. We append them to a list that we use to create the errorbar graph and the fill_between function with our maxes and minimums to give it a range to work in.
+
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/f51a26ba-2a19-494d-adb5-d7df472533ee)
 
@@ -46,10 +47,13 @@ plt.show()
 <sub>Fig. 2 shows results of program
 
 ## Base Conversion
-![image](https://github.com/Amine-Itani/Unit-1/assets/123438294/8d48907e-3a6f-4cb7-a872-f2d93f12f3f3)
+### red = 250, green = 100, blue = 10
 
-<sub>Fig. 3 shows truth table of equation
+#FA640A
 
-## Circuit
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/966844dd-ae11-43b9-8fa4-28587640ba6d)
 
-<sub>Fig. 4 shows circuit of equation
+<sub>Fig. 3 shows color expressed by hex value
+
+
+
