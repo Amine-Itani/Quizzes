@@ -1,6 +1,8 @@
 # Quiz 027
+Nice quiz
 
 ## Input & Output
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/4b4251b0-42a0-4342-bd30-999af5ead03f)
 
 <sub>Fig. 1 shows given intput and outputs of task
 ## Code
@@ -23,10 +25,6 @@ print(case1)
 
 <sub>Fig. 2 shows results of program
 
-## Truth Table
+### How many color could you represent in a 6 bit computer?
 
-<sub>Fig. 3 shows truth table of equation
-
-## Circuit
-
-<sub>Fig. 4 shows circuit of equation
+262000
