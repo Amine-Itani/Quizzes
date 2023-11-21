@@ -1,6 +1,8 @@
 # Quiz 026
-Describe this quiz
+Another useful quiz whne it comes to data science. Learning how to store data in a dictionary, one of the most efficient ways when it comes to graphs, and using them to plot, is pretty important.
+
 ## Input & Output
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/3187f4d0-8543-4e50-a2cc-4d11439782f1)
 
 <sub>Fig. 1 shows given intput and outputs of task
 ## Code
@@ -33,7 +35,11 @@ plt.show()
 <sub>Fig. 2 shows results of program
 
 ## Base Conversion
-### Red = 10, Blue = 255, Green = 255
+### Red = 10, Blue = 255, Green = 235
 
-0AFFFF
-<sub>Fig. 3 shows truth table of equation
+#0AFFEB
+
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/fd8a431c-09e0-446a-bfcb-e989fe47427e)
+
+
+<sub>Fig. 3 shows color corresponding hex value
