@@ -1,5 +1,5 @@
 # Quiz 027
-Nice quiz
+Nice quiz, pretty fun to do overall. 
 
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/4b4251b0-42a0-4342-bd30-999af5ead03f)
@@ -10,7 +10,7 @@ Nice quiz
 ```py
 def count_letters(my_dict, msg):
 
-    for l in msg:
+    for l in msg: # simple yet powerful, as repeats nested loop for every loop
         if l in my_dict:
             my_dict[l] += 1
 
