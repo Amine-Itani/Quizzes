@@ -17,25 +17,25 @@ sensorC = [15, 11, 24, 21, 6, 2, 18, 27, 1, 16]
 
 data = []
 for v in range(len(sensorA)):
-    data.append([int(sensorA[v]), int(sensorB[v]), int(sensorC[v])])
+    data.append([int(sensorA[v]), int(sensorB[v]), int(sensorC[v])]) # turning into lists for numpy functions
 
 x = [] # time in hours
 t = 0
 mean = [] # descriptive stats
 std = [] # standard deviation
-min_t = []
-max_t = []
+min_t = [] # minimum temperature
+max_t = [] # maximum temperature
 print(data)
 for d in data:
-    mean.append(np.mean(d))
+    mean.append(np.mean(d)) # careful, np functions only work on lists
     std.append(np.std(d))
     min_t.append(np.min(d))
     max_t.append(np.max(d))
     x.append(t)
     t += 1
 
-plt.errorbar(x, mean, std, fmt="o", color="#023047")
-plt.fill_between(x, max_t, min_t, alpha=0.5, linewidth=0, color='#8ecae6')
+plt.errorbar(x, mean, std, fmt="o", color="#023047") # errorbar shows the given point +- the potential error as lines above and below the point
+plt.fill_between(x, max_t, min_t, alpha=0.5, linewidth=0, color='#8ecae6') # fill between works kind of like a graph line, plotting all potential values while taking error into account
 plt.xlabel("Time (hours)")
 plt.ylabel("Temperature (C)")
 plt.show()
