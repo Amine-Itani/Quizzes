@@ -13,14 +13,14 @@ from matplotlib import pyplot as plt
 
 data = {
     'x' : [],
-    'y' : [24, 1, 2, 25, 26, 21, 23, 34, 49, 2, 19, 32, 7, 17, 36, 7, 45, 28, 40, 46]
+    'y' : [24, 1, 2, 25, 26, 21, 23, 34, 49, 2, 19, 32, 7, 17, 36, 7, 45, 28, 40, 46] # addded manually
 }
 t = 0
-for x in range(len(data['y'])):
+for x in range(len(data['y'])): # x-axis is time, buidling it out here
     data['x'].append(t)
     t += 1
 
-data['title'] = 'quiz_data_science'
+data['title'] = 'quiz_data_science' # adding key and value to dict
 
 plt.plot(data['x'], data['y'], 'r', linewidth=2)
 plt.title(data['title'])
