@@ -35,6 +35,9 @@ print(some)
 ### 1011 + 1101 
 
 1011 in decimal is 11
+
 1101 in decimal is 13
+
 11 + 13 = 24
+
 24 in binary is **11000**
