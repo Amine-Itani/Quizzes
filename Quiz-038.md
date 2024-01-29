@@ -1,4 +1,5 @@
 # Quiz 038
+I liked this quiz because I got to show off my underappreciated takes on the best towns in Japan. Among these are Takadanobaba, which has some of the best, and cheapest food in Japan; and Kutatsu, although a famous tourist town, it hides many secrets.
 
 ## Input & Output
 
