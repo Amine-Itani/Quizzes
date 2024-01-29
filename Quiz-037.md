@@ -1,4 +1,5 @@
 # Quiz 037
+A nice OOP exercise that accurately predicts compound interet in a given amount of time, rate, and of course prinicpal sum.
 
 ## Input & Output
 
