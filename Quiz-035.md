@@ -1,4 +1,5 @@
 # Quiz 035
+The quiz's program is relatively simple, but the teasting is where the real work is. The green tick from all tests passed is quite satisfying.
 
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/1b9ee8a3-9d9b-42a3-a4eb-4054332a93d6)
