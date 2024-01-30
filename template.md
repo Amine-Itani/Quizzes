@@ -1,6 +1,7 @@
-# Quiz ?
+# Quiz ???
 
 ## Input & Output
+
 
 <sub>Fig. 1 shows given intput and outputs of task
 ## Code
@@ -11,12 +12,11 @@
 
 ## Evidence
 
+
+
 <sub>Fig. 2 shows results of program
 
-## Truth Table
+## UML Diagram
 
-<sub>Fig. 3 shows truth table of equation
+<sub>Fig. 3 shows UML Diagram
 
-## Circuit
-
-<sub>Fig. 4 shows circuit of equation
