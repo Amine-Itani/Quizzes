@@ -1,7 +1,7 @@
 # Quiz 043
-
+THIS QUIZ IS COMPLETELY WRONG WTF ARE YOU DOING
 ## Input & Output
-
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/b6012f3a-235d-43fe-8e09-facde5475e9f)
 
 <sub>Fig. 1 shows given intput and outputs of task
 ## Code
