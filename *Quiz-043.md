@@ -1,5 +1,6 @@
 # Quiz 043
-THIS QUIZ IS COMPLETELY WRONG WTF ARE YOU DOING
+Maybe trying to use join for everything is not a good idea. Lesson learned.
+
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/b6012f3a-235d-43fe-8e09-facde5475e9f)
 
@@ -7,26 +8,34 @@ THIS QUIZ IS COMPLETELY WRONG WTF ARE YOU DOING
 ## Code
 
 ```sql
-CREATE TABLE if not exists movies(
-    id INTEGER PRIMARY KEY,
-    name text,
-    year int,
-    budget real,
-    category VARCHAR(100),
-    director VARCHAR(100),
-    producer VARCHAR(100)
-);
+-- 1. There are technically 4 tables counting sqlite_master, but 3 that are usable --
 
-INSERT INTO movies (year, budget, category, director, producer, name)
-values('Whiplash', 2014, 3300000.00, 'Indie Psych Drama', 'Damien Chazelle', 'Bold Films, Blumhouse Productions, and Right of Way Films');
+SELECT count()from INHABITANT where (gender='Male' and state='Friendly');
 
-INSERT INTO movies (year, budget, category, director, producer, name)
-values('The Grand Budapest Hotel', 2014, 25000000.00, 'Comedy-Drama', 'Wes Anderson', 'American Empirical Pictures, Studio Babelsberg, Fox Searchlight Pictures, Scott Rudin, and Steven Rales');
+-- 2. There are 4 inhabitants that are friendly and male --
 
-SELECT * from movies;
+select avg(gold) from inhabitant where villageid = 1;
+select avg(gold) from INHABITANT where villageid = 2;
+select avg(gold) from INHABITANT where villageid = 3;
+select avg(gold) from INHABITANT where villageid = 4;
+
+-- 3. Stoneville average gold = 129.17, Slowville avg gold = 112.5,
+-- Steepmount avg gold = 137.5, Wetriver avg gold = 118.75 --
+
+select count() from item where item like 'A%'
+
+-- 4. There are 3 items that begin with the letter A --
+
+select distinct count(job) from INHABITANT
+
+-- 5. There are 20 different distinct jobs --
+
+select item.item from item, inhabitant where inhabitant.villageid=item.owner and inhabitant.job='Herbalist'
+
+-- 6. Items in the evidence below --    
 ```
 ## Evidence
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/03bedd87-0d72-4277-b632-bd053bf1f482)
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/1645e2ce-916b-4e0c-a26d-15cb81bf3fb3)
 
 <sub>Fig. 2 shows results of program
 
