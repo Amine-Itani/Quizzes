@@ -17,5 +17,6 @@
 <sub>Fig. 2 shows results of program
 
 ## UML Diagram
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/02de1f0d-1fb6-4104-86a1-dc65c8b6a315)
 
 <sub>Fig. 3 shows UML Diagram
