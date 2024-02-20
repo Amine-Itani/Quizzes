@@ -353,9 +353,11 @@ https://drive.google.com/drive/folders/16vmLtwAy_Iv1EPWMQ-HVx8WCsYLnPtx7?usp=dri
 <sub>Fig. 2 shows results of program
 
 ## UML Diagram
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/e16d8185-f396-49ca-8413-a9a159d7a9f0)
 
 <sub>Fig. 3 shows UML Diagram
 
 ## ER Diagram
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/b6687eff-b7a1-4fb6-9118-b0efeb85e380)
 
 <sub>Fig. 4 shows ER Diagram
