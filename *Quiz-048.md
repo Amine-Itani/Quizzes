@@ -2,8 +2,7 @@
 First big stack combining sql, python, and kivy. This is going to be a lot of work.
 
 ## Input & Output
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/f67da4b5-c668-44c8-a7e9-97fb3c642e80)
-
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/f3261689-0f8d-4670-9f4c-5647c2dbb9d4)
 
 <sub>Fig. 1 shows given intput and outputs of task
 ## Code
