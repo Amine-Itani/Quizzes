@@ -1,5 +1,5 @@
 # Quiz 047
-Is this how transactions are verified around teh world? I like the opening to explore more about hashing, seems like an entry to the complex world of cybersecurity
+Is this how transactions are verified around the world? I like the opening to explore more about hashing, seems like an entry to the complex world of cybersecurity
 
 ## Input & Output
 ![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/4739bee4-ee81-4700-a1c1-de9c4a09a24f)
