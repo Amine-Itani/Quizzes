@@ -23,6 +23,6 @@ select first_name, last_name from customers where customer_id=12
 <sub>Fig. 2 shows results of program
 
 ## ER Diagram
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/f64bdf79-7b4a-40b8-8118-bf2dbb5866d9)
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/a7e986f9-fc89-4f13-8a85-06cdca355f06)
 
 <sub>Fig. 3 shows UML Diagram
