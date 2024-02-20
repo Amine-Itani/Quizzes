@@ -33,6 +33,6 @@ print(total)
 <sub>Fig. 2 shows results of program
 
 ## ER Diagram
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/06c1b089-4a13-4e11-848a-0e2bfcc1061a)
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/dca2df80-860a-4930-8c31-4c26243ce660)
 
 <sub>Fig. 3 shows ER Diagram
