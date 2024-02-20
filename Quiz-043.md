@@ -40,7 +40,7 @@ select item.item from item, inhabitant where inhabitant.villageid=item.owner and
 <sub>Fig. 2 shows results of program
 
 ## ER Diagram
-![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/a7e986f9-fc89-4f13-8a85-06cdca355f06)
+
 
 <sub>Fig. 3 shows ER Diagram of database
 
