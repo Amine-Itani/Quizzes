@@ -35,6 +35,7 @@ for row in results:
 
 <sub>Fig. 2 shows results of program
 
-## UML Diagram
+## ER Diagram
+![image](https://github.com/Amine-Itani/Quizzes/assets/123438294/baebc16d-dabe-4a86-aee0-84151685b285)
 
-<sub>Fig. 3 shows UML Diagram
+<sub>Fig. 3 shows ER Diagram
