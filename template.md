@@ -1,22 +1,9 @@
 # Quiz ???
 
-## Input & Output
+## Task
 
+<sub>Fig. 1 shows the task at hand</sub>
 
-<sub>Fig. 1 shows given intput and outputs of task
-## Code
+## Answer
 
-```py
-
-```
-```kv
-
-```
-## Evidence
-
-<sub>Fig. 2 shows results of program
-
-## UML Diagram
-
-<sub>Fig. 3 shows UML Diagram
-
+<sub>Fig. 2 shows the answer to the task</sub>
