@@ -21,7 +21,7 @@ def position_parity(m, k):
             count_m += 1
 
     return n
-``
+```
 # example test
 test_1 = position_parity('1011', ['P0','P1','P2'])
 print(test_1)
