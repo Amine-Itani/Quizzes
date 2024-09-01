@@ -33,3 +33,11 @@ print(f"Error detected: {test2}")
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
 
+## Task 2
+This algorithm looks at two identical copies and fixes the third one on that basis. Not the most efficient as it requires specific coniditons to work.
+
+## Algorith 2: Error fix
+``.py
+
+```
+
