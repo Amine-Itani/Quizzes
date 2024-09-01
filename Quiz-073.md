@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d0bf97b-0bd0-4cfa-8de8-c273e1d8000f)# Quiz 073
+# Quiz 073
 This quiz is an error detector that bases itself off of the assum;tion that the message has been sent three times, one original and 2 copies. It only works if the only one of the copies is changed, but in that case it can be fixed as well, as shown in the second algorithm.
 
 ## Task
@@ -37,7 +37,7 @@ print(f"Error detected: {test2}")
 This algorithm looks at two identical copies and fixes the third one on that basis. Not the most efficient as it requires specific coniditons to work.
 
 ## Algorith 2: Error fix
-``.py
+```.py
 def error_detection(data:str):
     pattern_size = int(len(data)/3)
     original, copy1, copy2 = '', '', ''
