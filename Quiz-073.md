@@ -1,4 +1,5 @@
 # Quiz 073
+This quiz is an error detector that bases itself off of the assum;tion that the message has been sent three times, one original and 2 copies. It only works if the only one of the copies is changed, but in that case it can be fixed as well, as shown in the second algorithm.
 
 ## Task
 ![image](https://github.com/user-attachments/assets/47e10438-ba4a-423e-b6b6-0e0a9431ec25)
