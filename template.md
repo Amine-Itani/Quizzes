@@ -5,7 +5,8 @@
 <sub>Fig. 1 shows the task at hand</sub>
 
 ## Algorithm
-
+```.py
+```
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
