@@ -1,6 +1,6 @@
 # Quiz 074
 This quiz is an error detection algorithm, based on the parity bit of each message. An estimation of the efficiency of the algorithm will be determined at the end.
-The algorithm functions by counting the amount of ones in a string message
+The algorithm functions by counting the amount of ones in a string message and going through a few if statements to determine whether the first bit (parity bit) matches the eveness or oddness of the number of ones.
 
 ## Task
 ![image](https://github.com/user-attachments/assets/d3e26942-ebf6-4cc2-b169-a2c7ec5e5f57)
