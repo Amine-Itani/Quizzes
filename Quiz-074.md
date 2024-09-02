@@ -19,9 +19,7 @@ def parity_error_check(msg:str):
         else:
             return True
     else: # odd number of ones
-        print(msg[0])
-        if msg[0] == 0:
-            print('why god')
+        if msg[0] == '0':
             return False
         else:
             return True
