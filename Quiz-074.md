@@ -7,7 +7,31 @@ This quiz is an error detection algorithm, based on the parity bit of each messa
 <sub>Fig. 1 shows the task at hand</sub>
 
 ## Algorithm
+```.py
+def parity_error_check(msg:str):
+    count = 0
+    for n in range(1,len(msg)):
+        if msg[n] == '1':
+            count += 1
+    if count % 2 == 0: # even number of ones
+        if msg[0] == 1:
+            return False
+        else:
+            return True
+    else: # odd number of ones
+        print(msg[0])
+        if msg[0] == 0:
+            print('why god')
+            return False
+        else:
+            return True
 
+test1 = parity_error_check('100111001011001110010110011100101')
+print(test1)
+test2 = parity_error_check('011101111101110111110111001111')
+print(test2)
+
+```
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
