@@ -35,4 +35,5 @@ print(test2)
 ## Results and Evidence
 ![image](https://github.com/user-attachments/assets/f39bb338-cf62-44d5-8132-bab8a564838e)
 
+Efficiency estimation: 80%, however it does not allow for fixes
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
