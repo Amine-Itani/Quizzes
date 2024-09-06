@@ -24,3 +24,11 @@ print(test1)
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
 
+## Algorithm 2
+This algorithm, instead of returning the list of numbers needed to calculate a requested parity bit k (like it's predecessor), creates a list of lists with the numbers needed to calculate ALL the parity bits for a given message msg.
+```.py
+
+
+
+...
+
