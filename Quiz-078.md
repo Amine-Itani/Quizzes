@@ -27,8 +27,18 @@ print(test1)
 ## Algorithm 2
 This algorithm, instead of returning the list of numbers needed to calculate a requested parity bit k (like it's predecessor), creates a list of lists with the numbers needed to calculate ALL the parity bits for a given message msg.
 ```.py
+def parity_maker(k,n):
+    m = k+n
+    par_overall = []
+    for i in range (0,k):
+        par = []
+        for j in range(0, m+1):
+            if j & 2**(i-1):
+                par.append(j)
+        par_overall.append(par)
+    return par_overall
 
-
-
+test1 = parity_maker(4,3)
+print(test1)
 ...
 
