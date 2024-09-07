@@ -34,5 +34,6 @@ plt.show()
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
+![image](https://github.com/user-attachments/assets/28f3ef04-15fa-453a-94b2-6dd93d7d13bd)
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
