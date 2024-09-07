@@ -1,6 +1,7 @@
 # Quiz 078
 Please fill this in
 ## Task
+![image](https://github.com/user-attachments/assets/37ec9ab2-2b13-4f22-a3e7-f663dff70e97)
 
 <sub>Fig. 1 shows the task at hand</sub>
 
