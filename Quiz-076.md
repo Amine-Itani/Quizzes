@@ -1,4 +1,5 @@
 # Quiz 076
+![image](https://github.com/user-attachments/assets/31c2fe89-6250-48b9-bfae-d40f12b2a933)
 
 ## Task
 Continuing our work with the the Hamming Code to efficiently check for errors in data transfers, this code is used to find the position of the parity bits in a code and add it, returning the message + the parity bits in the right positions.
