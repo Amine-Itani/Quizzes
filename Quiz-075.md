@@ -1,6 +1,7 @@
 # Quiz ???
 
 ## Task
+![image](https://github.com/user-attachments/assets/303cd43f-e3dd-4b7b-b529-f656d0d8eaf7)
 
 <sub>Fig. 1 shows the task at hand</sub>
 
