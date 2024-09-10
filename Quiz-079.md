@@ -1,6 +1,7 @@
 # Quiz 079
 
 ## Task
+![image](https://github.com/user-attachments/assets/1d070d19-0e38-4d5e-b757-5cd39953ccaa)
 
 <sub>Fig. 1 shows the task at hand</sub>
 
@@ -61,5 +62,6 @@ print(final)
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
+![image](https://github.com/user-attachments/assets/34d21c32-a63b-4797-9ba5-558688181f6e)
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
