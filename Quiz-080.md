@@ -22,7 +22,11 @@ print(test1)
 ```
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
+## Trace Table
+
+<sub>Fig. 3 shows the trace table of the algorithm </sub>
+
 ## Results and Evidence
 ![image](https://github.com/user-attachments/assets/2168a13d-4a0c-46cd-b7ae-d0759437665f)
 
-<sub>Fig. 3 shows the results of the task and evidence of completion</sub>
+<sub>Fig. 4 shows the results of the task and evidence of completion</sub>
