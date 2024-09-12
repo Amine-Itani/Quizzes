@@ -23,6 +23,7 @@ print(test1)
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Trace Table
+![image_6209779](https://github.com/user-attachments/assets/b9d6f923-47fc-42f0-a15c-1c1a14e1b368)
 
 <sub>Fig. 3 shows the trace table of the algorithm </sub>
 
