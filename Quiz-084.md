@@ -1,5 +1,5 @@
 # Quiz 084
-Recursive Functions: Trace Table 5
+Recursive Functions: Trace Table #5
 ## Task
 ![image](https://github.com/user-attachments/assets/f9871aa0-00d2-4464-ab20-424c970b121b)
 
