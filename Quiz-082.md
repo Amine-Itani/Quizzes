@@ -1,5 +1,5 @@
 # Quiz 082
-Recursive functions: trace table #2
+Recursive functions: trace table #3
 
 This recursive function, while seemingly basic, is an ingenious and elegant way of calculating factorials.
 ## Task
