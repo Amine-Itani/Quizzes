@@ -18,7 +18,7 @@ return FUNC(N-1) + FUNC(N-2)
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
-![IMG_5534](https://github.com/user-attachments/assets/9de9f242-0703-4170-936d-6938aa517e42)
+
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
 
