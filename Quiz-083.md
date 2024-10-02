@@ -1,5 +1,5 @@
 # Quiz 083
-Recusive functions: trace table #3
+Recusive functions: trace table #4
 ## Task
 ![image](https://github.com/user-attachments/assets/296bd211-e047-428f-81c6-e8c157f78bcc)
 
