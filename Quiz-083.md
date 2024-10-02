@@ -7,7 +7,15 @@ Recusive functions: trace table #3
 
 ## Algorithm
 ```.py
+def FUNC(N):
+  if len(N)==1:
+    return N[0]
+  else:
+    mid = len(N)//2
+    L = FUNC(N[:mid])
+    R = FUNC(N[mid:])
 
+  return L + R
 ```
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
