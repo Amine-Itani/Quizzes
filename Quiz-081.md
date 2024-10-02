@@ -7,6 +7,33 @@ Recursive functions: trace table 2
 
 ## Algorithm
 ```.py
+def swap_letter(s, k, i):
+    s_list = []
+    for l in s:
+        if l == k:
+            to_swap_1 = s[k]
+            s_list.append(0)
+        if l == i:
+            to_swap_2 = s[i]
+            s_list.append(0)
+        else:
+            s_list.append(s[l])
+    new_s = ''
+    for j in range(0, len(s_list)):
+        if j == k:
+            new_s += to_swap_2
+        if j == i:
+            new_s += to_swap_1
+        else:
+            new_s += s_list[j]
+def PERM(s:str, k:int):
+    if k == len(s):
+        return [s]
+    else:
+        out = []
+        for i in range(len(s)):
+            t = swap_letter(s, k, i)
+            out.extend(PERM(t, k+1))
 
 ```
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
