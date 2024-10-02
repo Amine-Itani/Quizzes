@@ -1,5 +1,7 @@
 # Quiz 082
+Recursive functions: trace table #2
 
+This recursive function, while seemingly basic, is an ingenious and elegant way of calculating factorials.
 ## Task
 ![image](https://github.com/user-attachments/assets/77b17892-1a69-4f5e-b450-5f789f01413b)
 
@@ -18,5 +20,6 @@ def FUNC(N):
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
+![IMG_5539](https://github.com/user-attachments/assets/804382a4-f46a-4062-8e69-478435d7e66d)
 
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
