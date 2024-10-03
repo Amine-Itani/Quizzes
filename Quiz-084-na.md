@@ -18,7 +18,8 @@ return FUNC(N-1) + FUNC(N-2)
 <sub>Fig. 2 shows the algorithm used to tackle the task</sub>
 
 ## Results and Evidence
-![IMG_5534](https://github.com/user-attachments/assets/bab1c04e-a07d-41b9-849c-c9e182e570d5)
+![IMG_5534 (2)](https://github.com/user-attachments/assets/5c9eedbd-21c3-4a23-bc16-3ba0e6c7387a)
+
 <sub>Fig. 3 shows the results of the task and evidence of completion</sub>
 
 ## Fun Fact! Other Mathematical Methods
